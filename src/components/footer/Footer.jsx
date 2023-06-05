@@ -26,7 +26,7 @@ const Footer = () => {
         >
           <FaGithub />
         </a>
-        <a href="https://t.me/ApolloMiracle" target="_blank" rel="noreferrer">
+        <a href="https://t.me/MiracleWorld" target="_blank" rel="noreferrer">
           <FaTelegram />
         </a>
         <a
