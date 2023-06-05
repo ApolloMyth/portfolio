@@ -37,11 +37,11 @@ const About = () => {
           <p>
             Experienced Fullstack Engineer with proficiency in developing
             high-quality software solutions and collaborating with
-            cross-functional teams. My extensive knowledge of front-end
+            cross-functional teams. My extensive knowledge of web development
             technologies such as HTML, CSS, Bootstrap, Tailwind CSS, JavaScript,
-            TypeScript, React, Next and back-end technologies like Node.js, PHP,
-            Python allows me to build applications that are efficient,
-            optimized.
+            TypeScript, React, Next and Mobile development technologies like
+            Dart, Flutter, React Native, Swift, Kotlin allows me to build
+            applications that are efficient and optimized.
           </p>
           <p>
             My approach to development is rooted in delivering high-quality,
