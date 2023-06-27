@@ -5,14 +5,14 @@ const HeaderSocials = () => {
   return (
     <div className="header__socials">
       <a
-        href="https://github.com/SuperBluestar"
+        href="https://github.com/crystal-jewel"
         target="_blank"
         rel="noreferrer"
       >
         <FaGithub />
       </a>
       <a
-        href="https://t.me/MiracleWorld"
+        href="https://t.me/crystal_jewel"
         target="_blank"
         rel="noreferrer"
       >
