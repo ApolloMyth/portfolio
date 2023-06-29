@@ -3,14 +3,13 @@
 
   ## Built With
     - React
-    - Firebase
     - JavaScript
-    - CSS
+    - Tailwind CSS
     - VS code
 
   > This is personal portfolio website using MERN stack.
   ## Live Demo
-  - [Live Demo](https://papoy-dev.web.app/)
+  - [Live Demo](https://crystal-jewel.netlify.app/)
 
 # Getting Started
   ## Prerequisites:
@@ -20,8 +19,8 @@
 
   ## Steps to follow:
     - Choose a folder in your local machine where you want this repository to be copied
-    - Clone this [repository](https://github.com/PapoyDev/MyPortfolio) to your local machine 
-      -> git clone git@github.com:PapoyDev/MyPortfolio.git
+    - Clone this [repository](https://github.com/crystal-jewel/portfolio) to your local machine 
+      -> git clone git@github.com:PapoyDev/portfolio.git
     - Navigate to `cd portfolio`  directory.
     - To install all the app dependencies on the command line run
       -> npm install
@@ -30,11 +29,11 @@
 
   ## Author
     **Albert Brooks**
-    - [GitHub](https://github.com/PapoyDev)
+    - [GitHub](https://github.com/crystal-jewel)
 
   ## 🤝 Contributing
     - Contributions, issues, and feature requests are welcome!
-    - Feel free to check the [issues page](https://github.com/PapoyDev/MyPortfolio/issues).
+    - Feel free to check the [issues page](https://github.com/crystal-jewel/portfolio/issues).
 
 # Show your support
   Give a ⭐ if you like this project!
